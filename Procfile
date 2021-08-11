@@ -1,1 +1,1 @@
-web: python trucker:app
+web: python trucker
