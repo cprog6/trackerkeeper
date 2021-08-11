@@ -1,1 +1,1 @@
-web: gunicorn wsgi:trucker
+web: gunicorn wsgi:app
