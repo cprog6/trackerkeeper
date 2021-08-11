@@ -1,1 +1,1 @@
-web: gunicorn __init__:app
+web: gunicorn trucker/__init__:app
