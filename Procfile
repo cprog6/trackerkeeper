@@ -1,1 +1,1 @@
-web: python trucker
+web: guniorn manage:app
