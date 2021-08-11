@@ -1,1 +1,1 @@
-web: gunicorn trucker/__init__.py:app
+web: gunicorn ./trucker/__init__:app
